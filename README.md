@@ -1,6 +1,6 @@
 # Advenced Mobile Systems - iOS
 
-Applications created in the laboratory Advanced Mobile System
+Applications created in the laboratory Advanced Mobile System at AGH (University of Science and Technology) 
 
 ## Shoutbox app
 
