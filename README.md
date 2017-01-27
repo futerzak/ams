@@ -1,6 +1,5 @@
-# ams-ios
+# Advenced Mobile Systems - iOS
 
-## Description
 Applications created in the laboratory Advanced Mobile System
 
 ## Shoutbox app
