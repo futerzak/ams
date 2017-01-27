@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Shoutbox
+
+  Created by Michał Topór-Futer on 20/01/17.
+  Copyright © 2017 Futerzak. All rights reserved.
+*/
+
+"Minutes" = "minuty";
+"ConnectionErrorTitle" = "Błąd połączenia";
+"ConnectionErrorMessage" = "Wystąpił problem z połączeniem z serwerem";
+"Says" = " powiedział: ";
+"seconds" = "sekundy";
+"minutes" = "minut";
+"hours" = "godzin";
+"days" = "dni";
+"ago" = "temu";
+"Your message" = "Twoja wiadomość";
+"Your name" = "Twoje imię";
+"Send" = "Wyślij";
+"New message" = "Nowa Wiadomość";
+"Please state your name and message" = "Wpisz imię i Twoją wiadomość";
+"Cancel" = "Anuluj";
